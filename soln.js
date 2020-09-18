@@ -6,7 +6,7 @@ function soln2() {
     console.log(48);
 }
 
-function soln4() {
+function soln3() {
     console.log(12);
 }
 
