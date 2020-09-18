@@ -5,5 +5,10 @@ function soln1() {
 function soln2() {
     console.log(48);
 }
+
+function soln3() {
+    console.log(12);
+}
+
 soln1();
 soln2();
