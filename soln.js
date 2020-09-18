@@ -1,5 +1,5 @@
 function soln1() {
-    console.log("abc");
+    console.log("xyz");
 }
 
 soln1();
